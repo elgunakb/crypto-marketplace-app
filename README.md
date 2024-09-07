@@ -1,4 +1,3 @@
-Here's a detailed description you can use for your project on GitHub:
 
 ---
 
@@ -26,4 +25,3 @@ Feel free to check out the project and contribute!
 
 ---
 
-This description covers all the main features and technologies used in your project in a concise and professional manner.
